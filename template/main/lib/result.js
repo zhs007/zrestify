@@ -8,7 +8,7 @@ class Result {
     }
 
     send() {
-        this.res.send(JSON.stringify(this.jsonobj));
+        this.res.send(this.jsonobj);
     }
 
     pushRet(ret) {
