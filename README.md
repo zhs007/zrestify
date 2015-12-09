@@ -124,5 +124,5 @@ Response
 使用到的第三方库
 ---
 
-* 使用**[yargs](https://github.com/bcoe/yargs)**模块简化命令行工具的开发。
-* 使用**[handlebars](https://github.com/wycats/handlebars.js/)**模板做基本代码模板。
+* 使用 **[yargs](https://github.com/bcoe/yargs)** 模块简化命令行工具的开发。
+* 使用 **[zHandlebars](https://github.com/zhs007/zhandlebars)** 模板做项目生成模板。
