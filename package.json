@@ -1,0 +1,49 @@
+{
+  "name": "zrestify",
+  "version": "0.1.0",
+  "latest": "0.1.0",
+  "description": "zrestify",
+  "keywords": [
+    "zrestify",
+    "restify",
+    "template",
+    "generator"
+  ],
+  "preferGlobal": true,
+  "config": {
+    "publishtest": false
+  },
+  "homepage": "http://www.heysdk.com/",
+  "author": {
+    "name": "zhs007",
+    "email": "sssxueren@gmail.com",
+    "url": "http://www.heysdk.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhs007/zrestify"
+  },
+  "bugs": {
+    "url": "https://github.com/zhs007/zrestify/issues",
+    "email": "sssxueren@gmail.com"
+  },
+  "directories": {
+    "bin": "./bin"
+  },
+  "main": "./bin/zrestify.js",
+  "bin": {
+    "oss-cli": "./bin/zrestify.js"
+  },
+  "scripts": {
+    "start": "node ./bin/zrestify.js"
+  },
+  "dependencies": {
+    "shelljs": "*",
+    "yargs": "*",
+    "glob": "*",
+    "handlebars": "*",
+    "async": "*"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
