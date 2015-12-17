@@ -1,7 +1,7 @@
 {
   "name": "zrestify",
-  "version": "0.2.3",
-  "latest": "0.2.3",
+  "version": "0.2.4",
+  "latest": "0.2.4",
   "description": "zrestify",
   "keywords": [
     "zrestify",
@@ -41,7 +41,8 @@
     "shelljs": "*",
     "yargs": "*",
     "zhandlebars": "*",
-    "glob": "*"
+    "glob": "*",
+    "async": "*"
   },
   "license": "MIT",
   "readmeFilename": "README.md"
