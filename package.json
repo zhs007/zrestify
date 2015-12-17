@@ -1,7 +1,7 @@
 {
   "name": "zrestify",
-  "version": "0.2.2",
-  "latest": "0.2.2",
+  "version": "0.2.3",
+  "latest": "0.2.3",
   "description": "zrestify",
   "keywords": [
     "zrestify",
@@ -32,7 +32,7 @@
   },
   "main": "./bin/zrestify.js",
   "bin": {
-    "oss-cli": "./bin/zrestify.js"
+    "zrestify": "./bin/zrestify.js"
   },
   "scripts": {
     "start": "node ./bin/zrestify.js"
